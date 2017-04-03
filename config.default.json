@@ -1,0 +1,9 @@
+{
+  "name": "#botName#",
+  "prefix": "#botPrefix# ",
+  "adminIds": ["#userId#"],
+  "token": "#botToken#",
+  "options": {
+    "beautifyJson": false
+  }
+}
