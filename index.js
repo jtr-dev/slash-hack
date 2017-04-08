@@ -1,23 +1,24 @@
 "use strict";
 
 const fs = require("fs");
-const Discord = require("discord.js");
-//const flatCache = require("flat-cache");
 const Log = require("log");
+const Clingy = require("cli-ngy");
+const Discord = require("discord.js");
 
 const cfg = require("./config.json");
 const strings = require("./lib/strings");
+const commands = require("./lib/commands");
 const executeCommand = require("./lib/bot/executeCommand");
 
 const logStream = fs.createWriteStream("./data/bot.log");
-const bot = new Discord.Client();
 const log = new Log("debug", logStream);
-
-//Setup bot data storage
+const cli = new Clingy(commands);
+const bot = new Discord.Client();
 
 //Setup bot data storage
 bot._instance = {
     log,
+    cli,
     voice: {
         playing: false,
         channel: null,
@@ -43,7 +44,6 @@ bot.on("message", msg => {
     }
 
 });
-
 
 //Start bot when files are loaded
 bot.login(cfg.token)

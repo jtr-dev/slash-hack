@@ -1,32 +1,31 @@
 {
-  "name": "xd-bot",
-  "version": "2.0.0",
-  "description": "A pretty useless discord bot",
-  "homepage": "https://f-rilling.com",
-  "author": {
-    "name": "Felix Rilling",
-    "email": "contact@f-rilling.com",
-    "url": " https://f-rilling.com"
-  },
-  "main": "index.js",
-  "keywords": [
-    "discord",
-    "bot",
-    "xd"
-  ],
-  "scripts": {
-    "start": "node ./index.js"
-  },
-  "devDependencies": {},
-  "repository": "FelixRilling/xd-bot",
-  "license": "MIT",
-  "dependencies": {
-    "cli-ngy": "^3.0.0",
-    "discord.js": "^11.0.0",
-    "erlpack": "github:hammerandchisel/erlpack",
-    "flat-cache": "^1.2.2",
-    "log": "^1.4.0",
-    "node-opus": "^0.2.5",
-    "uws": "^0.14.1"
-  }
+    "name": "xd-bot",
+    "version": "2.1.0",
+    "description": "A pretty useless discord bot",
+    "homepage": "https://f-rilling.com",
+    "author": {
+        "name": "Felix Rilling",
+        "email": "contact@f-rilling.com",
+        "url": " https://f-rilling.com"
+    },
+    "main": "index.js",
+    "keywords": [
+        "discord",
+        "bot",
+        "xd"
+    ],
+    "scripts": {
+        "start": "node ./index.js"
+    },
+    "devDependencies": {},
+    "repository": "private",
+    "license": "MIT",
+    "dependencies": {
+        "cli-ngy": "^3.0.3",
+        "discord.js": "^11.0.0",
+        "log": "^1.4.0",
+        "node-opus": "^0.2.5",
+        "uws": "^0.14.1",
+        "sodium": "^2.0.1"
+    }
 }
