@@ -25,8 +25,9 @@ bot._instance = {
         channel: null,
         connection: null,
         dispatcher: null,
-        assets:fs.readdirSync(assetsDir),
-    }
+        assets: fs.readdirSync(assetsDir),
+    },
+    tags: new Map()
 };
 
 //Inits onMessage function
