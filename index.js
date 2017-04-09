@@ -8,6 +8,7 @@ const Discord = require("discord.js");
 const cfg = require("./config.json");
 const strings = require("./lib/strings");
 const commands = require("./lib/commands");
+const assetsDir = require("./lib/constants").assetsDir;
 const executeCommand = require("./lib/bot/executeCommand");
 
 const logStream = fs.createWriteStream("./data/bot.log");
@@ -22,7 +23,9 @@ bot._instance = {
     voice: {
         playing: false,
         channel: null,
-        dispatcher: null
+        connection: null,
+        dispatcher: null,
+        assets:fs.readdirSync(assetsDir),
     }
 };
 
