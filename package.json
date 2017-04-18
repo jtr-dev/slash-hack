@@ -1,6 +1,6 @@
 {
   "name": "xd-bot",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "A pretty useless discord bot",
   "homepage": "https://f-rilling.com",
   "author": {
@@ -21,12 +21,7 @@
   "repository": "private",
   "license": "MIT",
   "dependencies": {
-    "cli-ngy": "^3.0.3",
-    "discord.js": "^11.0.0",
-    "log": "^1.4.0",
-    "node-opus": "^0.2.5",
-    "sodium": "^2.0.1",
-    "uws": "^0.14.1",
-    "ynajs": "git+https://github.com/FelixRilling/najs.git"
+    "di-ngy": "github:FelixRilling/di-ngy",
+    "ynajs": "github:FelixRilling/najs"
   }
 }

@@ -1,9 +1,20 @@
 {
-  "name": "#botName#",
-  "prefix": "#botPrefix# ",
-  "adminIds": ["#userId#"],
-  "token": "#botToken#",
-  "options": {
-    "beautifyJson": false
-  }
+    "name": "#botName#",
+    "prefix": "#botPrefix#",
+    "token": "#botToken#",
+    "adminIds": [
+        "#userId#"
+    ],
+    "website":"https://github.com/FelixRilling",
+    "files": {
+        "data":{
+            "dir":"./data/",
+            "log":"bot.log",
+            "storage":"data.json"
+        },
+        "assets": "./data/assets/"
+    },
+    "options": {
+        "enableDefaultCommands": true
+    }
 }
