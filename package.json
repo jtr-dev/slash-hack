@@ -18,7 +18,7 @@
     "start": "node ./index.js"
   },
   "devDependencies": {},
-  "repository": "private",
+  "repository": "https://github.com/FelixRilling/xd-bot",
   "license": "MIT",
   "dependencies": {
     "di-ngy": "github:FelixRilling/di-ngy",
