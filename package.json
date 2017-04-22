@@ -1,27 +1,27 @@
 {
-  "name": "xd-bot",
-  "version": "3.0.0",
-  "description": "A pretty useless discord bot",
-  "homepage": "https://f-rilling.com",
-  "author": {
-    "name": "Felix Rilling",
-    "email": "contact@f-rilling.com",
-    "url": " https://f-rilling.com"
-  },
-  "main": "index.js",
-  "keywords": [
-    "discord",
-    "bot",
-    "xd"
-  ],
-  "scripts": {
-    "start": "node ./index.js"
-  },
-  "devDependencies": {},
-  "repository": "https://github.com/FelixRilling/xd-bot",
-  "license": "MIT",
-  "dependencies": {
-    "di-ngy": "github:FelixRilling/di-ngy",
-    "ynajs": "github:FelixRilling/najs"
-  }
+    "name": "lisa-bot",
+    "version": "4.0.0",
+    "description": "A discord bot with miscellaneous features",
+    "homepage": "https://github.com/FelixRilling/lisa-bot",
+    "author": {
+        "name": "Felix Rilling",
+        "email": "contact@f-rilling.com",
+        "url": " https://f-rilling.com"
+    },
+    "main": "index.js",
+    "keywords": [
+        "discord",
+        "bot",
+        "lisa"
+    ],
+    "scripts": {
+        "start": "node ./index.js"
+    },
+    "devDependencies": {},
+    "repository": "https://github.com/FelixRilling/lisa-bot",
+    "license": "MIT",
+    "dependencies": {
+        "di-ngy": "github:FelixRilling/di-ngy",
+        "ynajs": "^1.11.0"
+    }
 }

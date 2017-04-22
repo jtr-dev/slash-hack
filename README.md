@@ -1,6 +1,13 @@
-# stat-bot
+# Lisa
 
-Keeps track of all kind of stats
+A discord bot with miscellaneous features
+
+## Introduction
+
+This bot is named after the plant Lisa from the Video game "Life is Strange".
+<http://dontnodentertainment.wikia.com/wiki/Lisa_the_Plant>
+
+It is a discord bot running on Node.js with Discord.js.
 
 ## Usage
 
