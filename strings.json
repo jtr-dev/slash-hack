@@ -1,0 +1,11 @@
+{
+    "currentlyPlaying": "with leafes",
+    "separator": "----------------",
+    "errorPermission": "You don't have permissions to access this command",
+    "errorInternal": "Internal error",
+    "errorUnknownCommand": "Unkown command",
+    "infoSimilar":"Did you mean",
+    "errorMissingArgument": "Missing argument",
+    "errorTooLong": "The output was too long to print",
+    "infoInternal": "Internal error"
+}
