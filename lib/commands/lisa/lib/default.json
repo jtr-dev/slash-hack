@@ -1,5 +1,12 @@
 {
-    "water": 100,
-    "happiness": 100,
-    "aliveSince": 0
+    "status": {
+        "water": 100,
+        "happiness": 100
+    },
+    "life": {
+        "isAlive": true,
+        "birth": 0,
+        "death": 0,
+        "killer": null
+    }
 }
