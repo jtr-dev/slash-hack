@@ -6,10 +6,8 @@ node_modules/
 bower_components/
 
 # Debug Files
+.git/
 .tmp/
 npm-debug.*
-
-# Bot Files
-config.json
-data/*.json
-data/*.log
+test/
+spec/
