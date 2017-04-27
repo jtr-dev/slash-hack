@@ -23,6 +23,6 @@
   "dependencies": {
     "di-ngy": "github:FelixRilling/di-ngy",
     "moment": "^2.18.1",
-    "ynajs": "^1.12.0"
+    "ynajs": "^2.0.0"
   }
 }
