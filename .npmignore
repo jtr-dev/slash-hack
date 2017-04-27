@@ -11,3 +11,8 @@ bower_components/
 npm-debug.*
 test/
 spec/
+
+config.json
+data/*.json
+data/*.log
+test.js

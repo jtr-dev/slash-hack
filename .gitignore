@@ -13,3 +13,4 @@ npm-debug.*
 config.json
 data/*.json
 data/*.log
+test.js
