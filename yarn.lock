@@ -94,8 +94,8 @@ delayed-stream@~1.0.0:
   resolved "https://registry.yarnpkg.com/delayed-stream/-/delayed-stream-1.0.0.tgz#df3ae199acadfb7d440aaae0b29e2272b24ec619"
 
 "di-ngy@github:FelixRilling/di-ngy":
-  version "1.7.2"
-  resolved "https://codeload.github.com/FelixRilling/di-ngy/tar.gz/1df7a98dcfda944acd9045464d7b5507a3d06d3e"
+  version "1.7.3"
+  resolved "https://codeload.github.com/FelixRilling/di-ngy/tar.gz/6a11bc2204ecead67951dd2dc32d85f48c6b34b5"
   dependencies:
     cli-ngy "^4.4.0"
     discord.js "^11.0.0"
@@ -376,8 +376,8 @@ ws@^1.1.0:
     ultron "1.0.x"
 
 ynajs@^2.3.5:
-  version "2.3.7"
-  resolved "https://registry.yarnpkg.com/ynajs/-/ynajs-2.3.7.tgz#4be1f20e4b8347fa77a09efcac77c050524665a1"
+  version "2.3.8"
+  resolved "https://registry.yarnpkg.com/ynajs/-/ynajs-2.3.8.tgz#f4c587c6ddcc9ece421cc44343c6918acdbb9dfc"
   dependencies:
     lodash "^4.17.4"
     moment "^2.18.1"
