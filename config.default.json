@@ -5,16 +5,22 @@
     "adminIds": [
         "#userId#"
     ],
-    "website":"https://github.com/FelixRilling",
+    "website": "https://github.com/FelixRilling/di-ngy",
     "files": {
-        "data":{
-            "dir":"./data/",
-            "log":"bot.log",
-            "storage":"data.json"
+        "data": {
+            "dir": "./data/",
+            "log": "bot",
+            "storage": [
+                "data"
+            ]
         },
         "assets": "./data/assets/"
     },
     "options": {
-        "enableDefaultCommands": true
+        "enableDefaultCommands": true,
+        "commandsAreCaseSensitive": true,
+        "answerToMissingCommand": false,
+        "answerToMissingArgs": false,
+        "answerToMissingPerms": false
     }
 }
