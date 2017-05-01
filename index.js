@@ -55,6 +55,6 @@ const bot = new Dingy(config, commands, strings, {
 });
 
 //Spoof server for heroku
-http.createServer(()=>"foo").listen(process.env.PORT || 6000);
+http.createServer(() => "Bot running").listen(process.env.PORT || 6000);
 
 bot.connect();
