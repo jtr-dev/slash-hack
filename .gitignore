@@ -8,9 +8,3 @@ bower_components/
 # Debug Files
 .tmp/
 npm-debug.*
-
-# Bot Files
-config.json
-data/*.json
-data/*.log
-test.js
