@@ -1,15 +1,57 @@
-[Mon May 01 2017 22:08:20 GMT+0200 (DST)] INFO Init:Loaded Log Stream
-[Mon May 01 2017 22:08:20 GMT+0200 (DST)] INFO Init:Created Clingy
-[Mon May 01 2017 22:08:20 GMT+0200 (DST)] INFO Init:Created Discord Client
-[Mon May 01 2017 22:08:20 GMT+0200 (DST)] INFO Init:Loaded Cache
-[Mon May 01 2017 22:08:20 GMT+0200 (DST)] INFO Init:Bound Message Event
-[Mon May 01 2017 22:08:20 GMT+0200 (DST)] INFO Init:Finished Start
-[Mon May 01 2017 22:08:20 GMT+0200 (DST)] INFO Connect:Starting
-[Mon May 01 2017 22:08:20 GMT+0200 (DST)] INFO Connect:Attempt Login
-[Mon May 01 2017 22:08:21 GMT+0200 (DST)] INFO Connect:Connected
-[Mon May 01 2017 22:08:24 GMT+0200 (DST)] INFO Resolving $t owner kamoji
-[Mon May 01 2017 22:08:24 GMT+0200 (DST)] INFO SentText
-[Mon May 01 2017 22:08:30 GMT+0200 (DST)] INFO Resolving $t owner kamoji
-[Mon May 01 2017 22:08:30 GMT+0200 (DST)] INFO SentText
-[Mon May 01 2017 22:08:33 GMT+0200 (DST)] INFO Resolving $t raw kamoji
-[Mon May 01 2017 22:08:34 GMT+0200 (DST)] INFO SentText
+[Mon May 01 2017 23:50:09 GMT+0200 (DST)] INFO Init:Loaded Log Stream
+[Mon May 01 2017 23:50:09 GMT+0200 (DST)] INFO Init:Created Clingy
+[Mon May 01 2017 23:50:09 GMT+0200 (DST)] INFO Init:Created Discord Client
+[Mon May 01 2017 23:50:09 GMT+0200 (DST)] INFO Init:Loaded Cache
+[Mon May 01 2017 23:50:09 GMT+0200 (DST)] INFO Init:Bound Message Event
+[Mon May 01 2017 23:50:09 GMT+0200 (DST)] INFO Init:Finished Start
+[Mon May 01 2017 23:50:09 GMT+0200 (DST)] INFO Connect:Starting
+[Mon May 01 2017 23:50:09 GMT+0200 (DST)] INFO Connect:Attempt Login
+[Mon May 01 2017 23:50:10 GMT+0200 (DST)] INFO Connect:Connected
+[Mon May 01 2017 23:50:16 GMT+0200 (DST)] INFO Resolving $status
+[Mon May 01 2017 23:50:17 GMT+0200 (DST)] INFO SentText
+[Mon May 01 2017 23:51:18 GMT+0200 (DST)] INFO Resolving $ship Dalai Ange
+[Mon May 01 2017 23:51:18 GMT+0200 (DST)] INFO SentText
+[Mon May 01 2017 23:51:34 GMT+0200 (DST)] INFO Resolving $ship Ange Dalai
+[Mon May 01 2017 23:51:35 GMT+0200 (DST)] INFO SentText
+[Mon May 01 2017 23:51:47 GMT+0200 (DST)] INFO Resolving $ship Ange Dalal
+[Mon May 01 2017 23:51:47 GMT+0200 (DST)] INFO SentText
+[Mon May 01 2017 23:52:32 GMT+0200 (DST)] INFO Resolving $ship Darkrune Runeatic
+[Mon May 01 2017 23:52:32 GMT+0200 (DST)] INFO SentText
+[Mon May 01 2017 23:52:52 GMT+0200 (DST)] INFO Resolving $ship Runeatic Darkrune
+[Mon May 01 2017 23:52:53 GMT+0200 (DST)] INFO SentText
+[Mon May 01 2017 23:58:54 GMT+0200 (DST)] INFO Resolving $status
+[Mon May 01 2017 23:58:54 GMT+0200 (DST)] INFO SentText
+[Mon May 01 2017 23:59:37 GMT+0200 (DST)] INFO Resolving $burn
+[Mon May 01 2017 23:59:38 GMT+0200 (DST)] INFO SentText
+[Mon May 01 2017 23:59:43 GMT+0200 (DST)] INFO Resolving $water
+[Mon May 01 2017 23:59:43 GMT+0200 (DST)] INFO SentText
+[Mon May 01 2017 23:59:48 GMT+0200 (DST)] INFO Resolving $status
+[Mon May 01 2017 23:59:49 GMT+0200 (DST)] INFO SentText
+[Mon May 01 2017 23:59:55 GMT+0200 (DST)] INFO Resolving $replant
+[Mon May 01 2017 23:59:55 GMT+0200 (DST)] INFO SentText
+[Mon May 01 2017 23:59:57 GMT+0200 (DST)] INFO Resolving $water
+[Mon May 01 2017 23:59:57 GMT+0200 (DST)] INFO SentText
+[Tue May 02 2017 00:00:02 GMT+0200 (DST)] INFO Resolving $water
+[Tue May 02 2017 00:00:02 GMT+0200 (DST)] INFO SentText
+[Tue May 02 2017 00:00:05 GMT+0200 (DST)] INFO Resolving $pet
+[Tue May 02 2017 00:00:06 GMT+0200 (DST)] INFO SentText
+[Tue May 02 2017 00:01:19 GMT+0200 (DST)] INFO Resolving $replant
+[Tue May 02 2017 00:01:19 GMT+0200 (DST)] INFO SentText
+[Tue May 02 2017 00:01:36 GMT+0200 (DST)] INFO Ignoring $roasted
+[Tue May 02 2017 00:01:40 GMT+0200 (DST)] INFO Ignoring $roast
+[Tue May 02 2017 00:01:47 GMT+0200 (DST)] INFO Resolving $help
+[Tue May 02 2017 00:01:47 GMT+0200 (DST)] INFO SentCode
+[Tue May 02 2017 00:02:02 GMT+0200 (DST)] INFO Resolving $roast Lonestar
+[Tue May 02 2017 00:02:03 GMT+0200 (DST)] INFO SentText
+[Tue May 02 2017 00:23:45 GMT+0200 (DST)] INFO Resolving $pet
+[Tue May 02 2017 00:23:46 GMT+0200 (DST)] INFO SentText
+[Tue May 02 2017 00:23:55 GMT+0200 (DST)] INFO Resolving $water
+[Tue May 02 2017 00:23:56 GMT+0200 (DST)] INFO SentText
+[Tue May 02 2017 00:27:55 GMT+0200 (DST)] INFO Resolving $water
+[Tue May 02 2017 00:27:55 GMT+0200 (DST)] INFO SentText
+[Tue May 02 2017 00:28:02 GMT+0200 (DST)] INFO Resolving $pet
+[Tue May 02 2017 00:28:02 GMT+0200 (DST)] INFO SentText
+[Tue May 02 2017 00:49:38 GMT+0200 (DST)] INFO Resolving $commit
+[Tue May 02 2017 00:49:38 GMT+0200 (DST)] INFO SentCode
+[Tue May 02 2017 00:53:00 GMT+0200 (DST)] INFO Resolving $commit
+[Tue May 02 2017 00:53:00 GMT+0200 (DST)] INFO SentCode
