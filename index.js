@@ -1,5 +1,6 @@
 "use strict";
 
+const http = require("http");
 const Dingy = require("di-ngy");
 const commands = require("./lib/commands");
 const onInit = require("./lib/events/onInit");
@@ -52,5 +53,8 @@ const bot = new Dingy(config, commands, strings, {
     onConnect,
     onMessage
 });
+
+//Spoof server for heroku
+http.createServer(()=>"foo").listen(process.env.PORT || 6000);
 
 bot.connect();
