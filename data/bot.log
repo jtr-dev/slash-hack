@@ -1,15 +1,15 @@
-[Mon May 01 2017 21:41:14 GMT+0200 (DST)] INFO Init:Loaded Log Stream
-[Mon May 01 2017 21:41:14 GMT+0200 (DST)] INFO Init:Created Clingy
-[Mon May 01 2017 21:41:14 GMT+0200 (DST)] INFO Init:Created Discord Client
-[Mon May 01 2017 21:41:14 GMT+0200 (DST)] INFO Init:Loaded Cache
-[Mon May 01 2017 21:41:14 GMT+0200 (DST)] INFO Init:Bound Message Event
-[Mon May 01 2017 21:41:14 GMT+0200 (DST)] INFO Init:Finished Start
-[Mon May 01 2017 21:41:14 GMT+0200 (DST)] INFO Connect:Starting
-[Mon May 01 2017 21:41:14 GMT+0200 (DST)] INFO Connect:Attempt Login
-[Mon May 01 2017 21:41:15 GMT+0200 (DST)] INFO Connect:Connected
-[Mon May 01 2017 21:42:08 GMT+0200 (DST)] INFO Resolving $status
-[Mon May 01 2017 21:42:09 GMT+0200 (DST)] INFO SentText
-[Mon May 01 2017 21:42:12 GMT+0200 (DST)] INFO Resolving $water
-[Mon May 01 2017 21:42:12 GMT+0200 (DST)] INFO SentText
-[Mon May 01 2017 21:42:13 GMT+0200 (DST)] INFO Resolving $pet
-[Mon May 01 2017 21:42:14 GMT+0200 (DST)] INFO SentText
+[Mon May 01 2017 22:08:20 GMT+0200 (DST)] INFO Init:Loaded Log Stream
+[Mon May 01 2017 22:08:20 GMT+0200 (DST)] INFO Init:Created Clingy
+[Mon May 01 2017 22:08:20 GMT+0200 (DST)] INFO Init:Created Discord Client
+[Mon May 01 2017 22:08:20 GMT+0200 (DST)] INFO Init:Loaded Cache
+[Mon May 01 2017 22:08:20 GMT+0200 (DST)] INFO Init:Bound Message Event
+[Mon May 01 2017 22:08:20 GMT+0200 (DST)] INFO Init:Finished Start
+[Mon May 01 2017 22:08:20 GMT+0200 (DST)] INFO Connect:Starting
+[Mon May 01 2017 22:08:20 GMT+0200 (DST)] INFO Connect:Attempt Login
+[Mon May 01 2017 22:08:21 GMT+0200 (DST)] INFO Connect:Connected
+[Mon May 01 2017 22:08:24 GMT+0200 (DST)] INFO Resolving $t owner kamoji
+[Mon May 01 2017 22:08:24 GMT+0200 (DST)] INFO SentText
+[Mon May 01 2017 22:08:30 GMT+0200 (DST)] INFO Resolving $t owner kamoji
+[Mon May 01 2017 22:08:30 GMT+0200 (DST)] INFO SentText
+[Mon May 01 2017 22:08:33 GMT+0200 (DST)] INFO Resolving $t raw kamoji
+[Mon May 01 2017 22:08:34 GMT+0200 (DST)] INFO SentText

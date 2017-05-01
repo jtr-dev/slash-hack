@@ -1,6 +1,6 @@
 {
     "name": "lisa-bot",
-    "version": "4.2.0",
+    "version": "4.3.0",
     "description": "A discord bot with miscellaneous features",
     "homepage": "https://github.com/FelixRilling/lisa-bot",
     "author": {
@@ -18,7 +18,6 @@
         "start": "node ./index.js"
     },
     "devDependencies": {
-        "eslint": "^3.19.0"
     },
     "repository": "https://github.com/FelixRilling/lisa-bot",
     "license": "MIT",
