@@ -1,28 +1,34 @@
 {
-  "name": "lisa-bot",
-  "version": "4.2.0",
-  "description": "A discord bot with miscellaneous features",
-  "homepage": "https://github.com/FelixRilling/lisa-bot",
-  "author": {
-    "name": "Felix Rilling",
-    "email": "contact@f-rilling.com",
-    "url": " https://f-rilling.com"
-  },
-  "main": "index.js",
-  "keywords": [
-    "discord",
-    "bot",
-    "lisa"
-  ],
-  "scripts": {
-    "start": "node ./index.js"
-  },
-  "devDependencies": {},
-  "repository": "https://github.com/FelixRilling/lisa-bot",
-  "license": "MIT",
-  "dependencies": {
-    "di-ngy": "github:FelixRilling/di-ngy",
-    "moment": "^2.18.1",
-    "ynajs": "^2.3.5"
-  }
+    "name": "lisa-bot",
+    "version": "4.2.0",
+    "description": "A discord bot with miscellaneous features",
+    "homepage": "https://github.com/FelixRilling/lisa-bot",
+    "author": {
+        "name": "Felix Rilling",
+        "email": "contact@f-rilling.com",
+        "url": " https://f-rilling.com"
+    },
+    "main": "index.js",
+    "keywords": [
+        "discord",
+        "bot",
+        "lisa"
+    ],
+    "scripts": {
+        "start": "node ./index.js"
+    },
+    "devDependencies": {
+        "eslint": "^3.19.0"
+    },
+    "repository": "https://github.com/FelixRilling/lisa-bot",
+    "license": "MIT",
+    "dependencies": {
+        "di-ngy": "github:FelixRilling/di-ngy",
+        "moment": "^2.18.1",
+        "ynajs": "^2.3.5"
+    },
+    "engines": {
+        "node": "7.9.x",
+        "npm": "4.6.x"
+    }
 }
