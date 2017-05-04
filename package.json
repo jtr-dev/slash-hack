@@ -24,10 +24,10 @@
     "dependencies": {
         "di-ngy": "github:FelixRilling/di-ngy",
         "moment": "^2.18.1",
-        "ynajs": "^2.3.5"
+        "ynajs": "^3.0.0"
     },
     "engines": {
-        "node": "7.9.x",
-        "npm": "4.6.x"
+        "node": "^7.x",
+        "npm": "^4.x"
     }
 }
