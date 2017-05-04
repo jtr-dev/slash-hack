@@ -1,15 +1,9 @@
-[Thu May 04 2017 16:28:56 GMT+0200 (DST)] INFO Init:Loaded Log Stream
-[Thu May 04 2017 16:28:56 GMT+0200 (DST)] INFO Init:Created Clingy
-[Thu May 04 2017 16:28:56 GMT+0200 (DST)] INFO Init:Created Discord Client
-[Thu May 04 2017 16:28:56 GMT+0200 (DST)] INFO Init:Loaded Cache
-[Thu May 04 2017 16:28:56 GMT+0200 (DST)] INFO Init:Bound Message Event
-[Thu May 04 2017 16:28:56 GMT+0200 (DST)] INFO Init:Finished Start
-[Thu May 04 2017 16:28:56 GMT+0200 (DST)] INFO Connect:Starting
-[Thu May 04 2017 16:28:56 GMT+0200 (DST)] INFO Connect:Attempt Login
-[Thu May 04 2017 16:28:58 GMT+0200 (DST)] INFO Connect:Connected
-[Thu May 04 2017 16:28:58 GMT+0200 (DST)] INFO Resolving $t eval "{member:NobodyRocks;}"
-[Thu May 04 2017 16:28:58 GMT+0200 (DST)] INFO SentText
-[Thu May 04 2017 16:29:06 GMT+0200 (DST)] INFO Resolving $t eval "{member:263671526279086092;}"
-[Thu May 04 2017 16:29:07 GMT+0200 (DST)] INFO SentText
-[Thu May 04 2017 16:29:11 GMT+0200 (DST)] INFO Resolving $t eval "{nameof:263671526279086092;}"
-[Thu May 04 2017 16:29:11 GMT+0200 (DST)] INFO SentText
+[Thu May 04 2017 16:36:43 GMT+0200 (DST)] INFO Init:Loaded Log Stream
+[Thu May 04 2017 16:36:43 GMT+0200 (DST)] INFO Init:Created Clingy
+[Thu May 04 2017 16:36:43 GMT+0200 (DST)] INFO Init:Created Discord Client
+[Thu May 04 2017 16:36:43 GMT+0200 (DST)] INFO Init:Loaded Cache
+[Thu May 04 2017 16:36:43 GMT+0200 (DST)] INFO Init:Bound Message Event
+[Thu May 04 2017 16:36:43 GMT+0200 (DST)] INFO Init:Finished Start
+[Thu May 04 2017 16:36:43 GMT+0200 (DST)] INFO Connect:Starting
+[Thu May 04 2017 16:36:43 GMT+0200 (DST)] INFO Connect:Attempt Login
+[Thu May 04 2017 16:36:45 GMT+0200 (DST)] INFO Connect:Connected
