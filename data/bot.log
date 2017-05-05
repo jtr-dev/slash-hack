@@ -1,9 +1,13 @@
-[Thu May 04 2017 21:03:21 GMT+0200 (DST)] INFO Init:Loaded Log Stream
-[Thu May 04 2017 21:03:21 GMT+0200 (DST)] INFO Init:Created Clingy
-[Thu May 04 2017 21:03:21 GMT+0200 (DST)] INFO Init:Created Discord Client
-[Thu May 04 2017 21:03:21 GMT+0200 (DST)] INFO Init:Loaded Cache
-[Thu May 04 2017 21:03:21 GMT+0200 (DST)] INFO Init:Bound Message Event
-[Thu May 04 2017 21:03:21 GMT+0200 (DST)] INFO Init:Finished Start
-[Thu May 04 2017 21:03:21 GMT+0200 (DST)] INFO Connect:Starting
-[Thu May 04 2017 21:03:21 GMT+0200 (DST)] INFO Connect:Attempt Login
-[Thu May 04 2017 21:03:23 GMT+0200 (DST)] INFO Connect:Connected
+[Fri May 05 2017 14:36:06 GMT+0200 (DST)] INFO Init:Loaded Log Stream
+[Fri May 05 2017 14:36:06 GMT+0200 (DST)] INFO Init:Created Clingy
+[Fri May 05 2017 14:36:06 GMT+0200 (DST)] INFO Init:Created Discord Client
+[Fri May 05 2017 14:36:06 GMT+0200 (DST)] INFO Init:Loaded Cache
+[Fri May 05 2017 14:36:06 GMT+0200 (DST)] INFO Init:Bound Message Event
+[Fri May 05 2017 14:36:06 GMT+0200 (DST)] INFO Init:Finished Start
+[Fri May 05 2017 14:36:06 GMT+0200 (DST)] INFO Connect:Starting
+[Fri May 05 2017 14:36:06 GMT+0200 (DST)] INFO Connect:Attempt Login
+[Fri May 05 2017 14:36:08 GMT+0200 (DST)] INFO Connect:Connected
+[Fri May 05 2017 14:36:13 GMT+0200 (DST)] INFO Resolving $meow
+[Fri May 05 2017 14:36:13 GMT+0200 (DST)] INFO SentMsg
+[Fri May 05 2017 14:36:46 GMT+0200 (DST)] INFO Resolving $meow
+[Fri May 05 2017 14:36:47 GMT+0200 (DST)] INFO SentMsg
