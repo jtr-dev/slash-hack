@@ -7,18 +7,6 @@ const onInit = require("./lib/events/onInit");
 const onConnect = require("./lib/events/onConnect");
 const onMessage = require("./lib/events/onMessage");
 
-const strings = {
-    currentlyPlaying: "with leafes",
-    separator: "----------------",
-    errorPermission: "You don't have permissions to access this command",
-    errorInternal: "Internal error",
-    errorUnknownCommand: "Unkown command",
-    errorMissingArgument: "Missing argument",
-    errorTooLong: "The output was to long to print",
-    infoSimilar: "Did you mean",
-    infoEmpty: "Empty message",
-    infoInternal: "Internal error"
-};
 const config = {
     name: "lisa-bot",
     prefix: "$",
