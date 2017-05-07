@@ -18,14 +18,12 @@ const config = {
     files: {
         data: {
             dir: "./data/",
-            log: "bot",
             storage: [
                 "lisa",
                 "tag_storage",
                 "tictactoe"
             ]
-        },
-        assets: "./data/assets/"
+        }
     },
     options: {
         enableDefaultCommands: true,
@@ -36,7 +34,7 @@ const config = {
     }
 };
 
-const bot = new Dingy(config, commands, strings, {
+const bot = new Dingy(config, commands, {}, {
     onInit,
     onConnect,
     onMessage
