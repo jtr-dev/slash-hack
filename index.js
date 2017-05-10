@@ -27,10 +27,15 @@ const config = {
     },
     options: {
         enableDefaultCommands: true,
-        commandsAreCaseSensitive: false,
-        answerToMissingComman: false,
+        commandsAreCaseSensitive: true,
+
+        answerToMissingCommand: false,
         answerToMissingArgs: false,
-        answerToMissingPerms: false
+        answerToMissingPerms: false,
+
+        sendFilesForLongReply: true,
+
+        logLevel: "debug"
     }
 };
 
