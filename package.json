@@ -23,10 +23,7 @@
   "dependencies": {
     "di-ngy": "github:FelixRilling/di-ngy",
     "moment": "^2.18.1",
-    "ynajs": "^3.3.0"
+    "ynajs": "^3.4.0"
   },
-  "optionalDependencies": {
-    "erlpack": "github:hammerandchisel/erlpack",
-    "uws": "^0.14.5"
-  }
+  "optionalDependencies": {}
 }

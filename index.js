@@ -14,7 +14,6 @@ const config = {
     adminIds: [
         "128985967875850240"
     ],
-    website: "https://github.com/FelixRilling/lisa-bot",
     files: {
         data: {
             dir: "./data/",
@@ -35,7 +34,7 @@ const config = {
 
         sendFilesForLongReply: true,
 
-        logLevel: "debug"
+        logLevel: "info"
     }
 };
 
