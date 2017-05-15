@@ -1,11 +1,11 @@
 {
     "env": {
-        "node": true
+        "node": true,
+        "jasmine": true
     },
     "extends": "eslint:recommended",
     "parserOptions": {
-        "sourceType": "script",
-        "ecmaVersion": 8
+        "sourceType": "script"
     },
     "rules": {
         "no-console": [
