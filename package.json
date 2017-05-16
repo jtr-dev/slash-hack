@@ -25,5 +25,8 @@
     "moment": "^2.18.1",
     "ynajs": "^3.4.0"
   },
-  "optionalDependencies": {}
+  "optionalDependencies": {
+    "erlpack": "github:hammerandchisel/erlpack",
+    "uws": "^0.14.5"
+  }
 }
