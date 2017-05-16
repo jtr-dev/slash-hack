@@ -1,6 +1,6 @@
 {
   "name": "lisa-bot",
-  "version": "5.2.3",
+  "version": "5.3.0",
   "description": "A discord bot with miscellaneous features",
   "homepage": "https://github.com/FelixRilling/lisa-bot",
   "author": {
@@ -23,7 +23,7 @@
   "dependencies": {
     "di-ngy": "github:FelixRilling/di-ngy",
     "moment": "^2.18.1",
-    "ynajs": "^3.4.0"
+    "ynajs": "^3.5.6"
   },
   "optionalDependencies": {
     "erlpack": "github:hammerandchisel/erlpack",
