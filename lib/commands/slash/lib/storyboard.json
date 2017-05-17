@@ -1,0 +1,24 @@
+{
+    "dialogs": [
+        {
+            "look": "It's a cold dark dungeon",
+            "move": [
+                "There's some goblins advancing on you",
+                "Goblin archers start drawing back their bows",
+                "There's a large red goblet down the hall to the east"
+            ],
+            "attack": "You miss, nothing is directly in front of you",
+            "block": "What are you blocking?"
+        },
+        {
+            "look": "Goblins surround you",
+            "move": [
+                "You hear loud footsteps approaching",
+                "A large wizard with a big pointy hat approaches",
+                "Some dwarfs rush you from behind"
+            ],
+            "attack": "Your land a critical strike",
+            "block": "Your shield breaks"
+        }
+    ]
+}

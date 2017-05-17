@@ -7,8 +7,8 @@ const onConnect = require("./lib/events/onConnect");
 const onMessage = require("./lib/events/onMessage");
 
 const config = {
-    name: "lisa-bot",
-    prefix: "$",
+    name: "slash-hack",
+    prefix: "\\",
     token: process.env.DISCORD_KEY,
     adminIds: [
         "128985967875850240"
